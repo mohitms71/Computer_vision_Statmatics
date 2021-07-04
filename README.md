@@ -13,5 +13,4 @@ This method uses a K-means clustering algorithm to reduce the number of colors i
 The edges and the blurred quantized and processed image will now be combined to get us the final cartoon image
 ### References-
 https://stacks.stanford.edu/file/druid:yt916dh6570/Dade_Toonify.pdf
-
 https://docs.opencv.org/3.4/d6/d00/tutorial_py_root.html
